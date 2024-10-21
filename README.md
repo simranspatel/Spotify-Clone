@@ -6,3 +6,6 @@ Using just CSS and HTML, I made a clone of Spotify.
 
 <img src="https://i.imgur.com/pSMRBLf.png" title="source: imgur.com" />
  <a href="https://github.com/simranspatel/">Click here</a> to follow me. <br><br>Thank You.
+
+# Student
+Simran Patel
